@@ -1,4 +1,4 @@
 # DARKROOM
 Mini Game
 
-ADD data, images, music folders...
+ADD data/font, images, music folders... And 
