@@ -1,0 +1,24 @@
+IDEA:  Dark Room is a 1vs1 multiplayer minigame 
+where players have to fight each other to death.
+There will be 3 weapons in the game, them would 
+be placed in any back square of the screan.
+
+SQUARES: PLACE WHERE THE PLAYER CAN BE
+BLACK SQUARES: PLACE WHERE THE WEAPONS ARE
+BLUE SQUARE: PLACE WHERE THE PLAYERS CAN MOVE AND ATTACK
+
+The content(knife,stick,gun) inside the black squares will be unlimited and it 
+would be revealed when any of the two players get's inside.
+The weapon revealed will have a 10 seconds cooldown once any player has got it
+
+KNIFE: Can damage several squares in straight line
+BATE OR STICK: Can damage several squares around the player
+GUN: Can shot infinite bullets in straight line 
+
+The objetive of the game should be get into the dark squares where no one can see, 
+until someone gets in and get any of the 3 weapons the game has to attack the other player
+and win.You can kill the other player in any moment of the game, it should be a fast game.
+
+
+For future updates I would like  to have more characters, but for now let's keep it simple,
+both player would have the exact same set of movements.

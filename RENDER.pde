@@ -4,7 +4,7 @@ byte FPS = 60; // CUADRO POR SEGUNDO
 String ENGINE = P3D; // MOTOR
 byte AA = 0;
 
-void INFO()
+void INFO() // INFORMATION
 {
-  println(W+"*"+H+":"+FPS+":FPS","ENGINE:"+ENGINE);
+  println(W+"*"+H+":"+FPS+":FPS","ENGINE:"+ENGINE); // 1280*720:60 P3D OPENGL
 }
